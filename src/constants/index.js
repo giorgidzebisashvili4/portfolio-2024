@@ -27,6 +27,7 @@ import {
   dcc,
   kelhel,
   microverse,
+  mongoDB,
 } from "../assets";
 
 export const navLinks = [
@@ -100,10 +101,10 @@ const technologies = [
     name: "postgresql",
     icon: postgresql,
   },
-  // {
-  //   name: "mangoDB",
-  //   icon: mangoDB,
-  // },
+  {
+    name: "mangoDB",
+    icon: mongoDB,
+  },
   {
     name: "git",
     icon: git,

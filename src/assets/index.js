@@ -38,6 +38,7 @@ import typescript from "./tech/typescript.png";
 import graphql from "./tech/graphql.png";
 import postgresql from "./tech/postgresql.png";
 import rubyrails from "./tech/rubyrails.png";
+import mongoDB from "./tech/MongoDB.svg";
 
 import coverhunt from "./company/coverhunt.png";
 import dcc from "./company/dcc.png";
@@ -52,6 +53,7 @@ import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
 
 export {
+  mongoDB,
   bwmap,
   nairobi,
   whiteabstract,
