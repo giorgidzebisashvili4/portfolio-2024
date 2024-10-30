@@ -100,10 +100,10 @@ const technologies = [
     name: "postgresql",
     icon: postgresql,
   },
-  {
-    name: "mangoDB",
-    icon: mangoDB,
-  },
+  // {
+  //   name: "mangoDB",
+  //   icon: mangoDB,
+  // },
   {
     name: "git",
     icon: git,
@@ -120,14 +120,14 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  {
-    name: "Photoshop",
-    icon: Photoshop,
-  },
-  {
-    name: "Illustrator",
-    icon: Illustrator,
-  },
+  // {
+  //   name: "Photoshop",
+  //   icon: Photoshop,
+  // },
+  // {
+  //   name: "Illustrator",
+  //   icon: Illustrator,
+  // },
   // {
   //   name: "docker",
   //   icon: docker,
