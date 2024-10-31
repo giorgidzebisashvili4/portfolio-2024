@@ -46,6 +46,9 @@ import coverhunt from "./company/coverhunt.png";
 import dcc from "./company/dcc.png";
 import kelhel from "./company/kelhel.png";
 import microverse from "./company/microverse.png";
+import profitcommerce from "./company/profit-commerce.jpeg";
+import mgroup from "./company/m-group.png";
+import upwork from "./company/upwork.svg";
 
 import komikult from "./projects/komikult.png";
 import leaderboard from "./projects/leaderboard.png";
@@ -53,8 +56,15 @@ import math from "./projects/math-magicians.png";
 import movie from "./projects/movie-metro.png";
 import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
+import natour from "./projects/natour.png";
+import worldWise from "./projects/worldWise.png";
 
 export {
+  profitcommerce,
+  mgroup,
+  upwork,
+  natour,
+  worldWise,
   mongoDB,
   photoshop,
   illustrator,
