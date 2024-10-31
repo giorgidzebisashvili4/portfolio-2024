@@ -195,7 +195,7 @@ const projects = [
     ],
     image: worldWise,
     repo: "https://github.com/giorgidzebisashvili4/worldwise",
-    demo: "https://",
+    demo: "https://worldwise-gdz.netlify.app/",
   },
   {
     id: "project-2",
