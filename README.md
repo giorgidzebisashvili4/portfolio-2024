@@ -11,6 +11,10 @@ click to see [Live Demo](https://giorgi-dzebisashvili.netlify.app/)
 If you downloaded and want to run on pc:
 
 ```bash
+npm install
+```
+
+```bash
 npm run dev
 ```
 
