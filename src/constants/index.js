@@ -28,6 +28,8 @@ import {
   kelhel,
   microverse,
   mongoDB,
+  photoshop,
+  illustrator,
 } from "../assets";
 
 export const navLinks = [
@@ -121,14 +123,14 @@ const technologies = [
     name: "figma",
     icon: figma,
   },
-  // {
-  //   name: "Photoshop",
-  //   icon: Photoshop,
-  // },
-  // {
-  //   name: "Illustrator",
-  //   icon: Illustrator,
-  // },
+  {
+    name: "Photoshop",
+    icon: photoshop,
+  },
+  {
+    name: "Illustrator",
+    icon: illustrator,
+  },
   // {
   //   name: "docker",
   //   icon: docker,

@@ -6,7 +6,7 @@ import worldmap from "./backgrounds/world-map.png";
 import logo from "./logo/logo-black.png";
 import logotext from "./logo/logo-text-black.png";
 
-import shaq from "./personal/shaq.png";
+// import shaq from "./personal/shaq.png";
 import giorgi from "./personal/Giorgi-Dzebisashvili.png";
 
 import backend from "./icons/backend.png";
@@ -38,7 +38,9 @@ import typescript from "./tech/typescript.png";
 import graphql from "./tech/graphql.png";
 import postgresql from "./tech/postgresql.png";
 import rubyrails from "./tech/rubyrails.png";
-import mongoDB from "./tech/MongoDB.svg";
+import mongoDB from "./tech/mongoDB.png";
+import photoshop from "./tech/photoshop.png";
+import illustrator from "./tech/illustrator.png";
 
 import coverhunt from "./company/coverhunt.png";
 import dcc from "./company/dcc.png";
@@ -54,13 +56,14 @@ import space from "./projects/space-hub.png";
 
 export {
   mongoDB,
+  photoshop,
+  illustrator,
   bwmap,
   nairobi,
   whiteabstract,
   worldmap,
   logo,
   logotext,
-  shaq,
   giorgi,
   backend,
   ux,
