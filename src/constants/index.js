@@ -35,6 +35,10 @@ import {
   upwork,
   natour,
   worldWise,
+  nextjs,
+  php,
+  python,
+  supabas,
 } from "../assets";
 
 export const navLinks = [
@@ -81,12 +85,29 @@ const technologies = [
     icon: typescript,
   },
   {
+    name: "PHP",
+    icon: php,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
     name: "React JS",
     icon: reactjs,
   },
   {
+    name: "Next JS",
+    icon: nextjs,
+  },
+
+  {
     name: "Redux Toolkit",
     icon: redux,
+  },
+  {
+    name: "Supabase",
+    icon: supabas,
   },
   {
     name: "Tailwind CSS",

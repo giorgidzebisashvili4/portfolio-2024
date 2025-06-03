@@ -40,13 +40,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
       >
-        Full-stack React developer with two years of experience and a strong
-        foundation in Node.js, combining technical and design expertise from
-        over four years in graphic design. Currently freelancing while pursuing
-        the PeopleCert DEVSkills Software Development Skills Specialist (React)
-        certification through a GITA scholarship program, which I qualified for
-        through a competitive exam. Eager to join a collaborative team to apply
-        and expand my skills further.
+        Full-stack React developer with 2+ years of experience, now expanding
+        into Python and exploring backend development with PHP. I bring over 4
+        years of design expertise from my background in graphic design, blending
+        visual thinking with clean, scalable code. I recently completed the
+        PeopleCert DEVSkills Software Development Skills Specialist (React)
+        certification through a competitive GITA scholarship program. Currently
+        freelancing and working with tools like Next.js and Tailwind CSS, I’m
+        eager to join a collaborative team where I can contribute, grow, and
+        build meaningful digital experiences.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

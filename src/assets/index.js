@@ -42,6 +42,11 @@ import mongoDB from "./tech/mongoDB.png";
 import photoshop from "./tech/photoshop.png";
 import illustrator from "./tech/illustrator.png";
 
+import nextjs from "./tech/nextjs-icon.svg";
+import php from "./tech/php.png";
+import python from "./tech/python.png";
+import supabas from "./tech/supabase.png";
+
 import coverhunt from "./company/coverhunt.png";
 import dcc from "./company/dcc.png";
 import kelhel from "./company/kelhel.png";
@@ -103,6 +108,10 @@ export {
   redux,
   tailwind,
   typescript,
+  nextjs,
+  php,
+  python,
+  supabas,
   komikult,
   leaderboard,
   math,
