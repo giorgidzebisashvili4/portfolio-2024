@@ -42,10 +42,10 @@ import mongoDB from "./tech/mongoDB.png";
 import photoshop from "./tech/photoshop.png";
 import illustrator from "./tech/illustrator.png";
 
-import nextjs from "./tech/nextjs-icon.svg";
+import nextjs from "./tech/nextjs.png";
 import php from "./tech/php.png";
 import python from "./tech/python.png";
-import supabas from "./tech/supabase.png";
+import supabase from "./tech/supabase.png";
 
 import coverhunt from "./company/coverhunt.png";
 import dcc from "./company/dcc.png";
@@ -63,6 +63,8 @@ import nyeusi from "./projects/nyeusi.png";
 import space from "./projects/space-hub.png";
 import natour from "./projects/natour.png";
 import worldWise from "./projects/worldWise.png";
+import theWildOasis from "./projects/the-wild-oasis.jpg";
+import theWildOasisWebsite from "./projects/the-wild-oasis-website.png";
 
 export {
   profitcommerce,
@@ -111,7 +113,7 @@ export {
   nextjs,
   php,
   python,
-  supabas,
+  supabase,
   komikult,
   leaderboard,
   math,
@@ -122,4 +124,6 @@ export {
   dcc,
   kelhel,
   microverse,
+  theWildOasisWebsite,
+  theWildOasis,
 };

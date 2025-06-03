@@ -38,7 +38,9 @@ import {
   nextjs,
   php,
   python,
-  supabas,
+  supabase,
+  theWildOasisWebsite,
+  theWildOasis,
 } from "../assets";
 
 export const navLinks = [
@@ -106,10 +108,6 @@ const technologies = [
     icon: redux,
   },
   {
-    name: "Supabase",
-    icon: supabas,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -126,6 +124,10 @@ const technologies = [
   //   icon: graphql,
   // },
   {
+    name: "supabase",
+    icon: supabase,
+  },
+  {
     name: "postgresql",
     icon: postgresql,
   },
@@ -137,14 +139,14 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
+  // {
+  //   name: "CSS 3",
+  //   icon: css,
+  // },
   {
     name: "figma",
     icon: figma,
@@ -197,6 +199,52 @@ const experiences = [
 const projects = [
   {
     id: "project-1",
+    name: "The Wild Oasis Website",
+    description:
+      "Public booking platform built with Next.js and Tailwind CSS. Users can explore cabins, check availability, and make reservations. Optimized for performance and SEO. Deployed on Vercel.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: theWildOasisWebsite,
+    repo: "https://github.com/giorgidzebisashvili4/the-wild-oasis-website",
+    demo: "https://the-wild-oasis-website-chi-pearl.vercel.app/",
+  },
+  {
+    id: "project-2",
+    name: "The Wild Oasis Admin",
+    description:
+      "Internal tool for managing hotel operations, including bookings, guests, and cabins. Built with React and styled-components, featuring authentication, filtering, and responsive design. Deployed on Netlify.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "restapi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: theWildOasis,
+    repo: "https://github.com/giorgidzebisashvili4/the-wild-oasis",
+    demo: "https://the-wild-oasis-gdz.netlify.app/dashboard",
+  },
+  {
+    id: "project-3",
     name: "worldWise",
     description:
       "A React-based app where users can log and map visited cities, categorized by location.",
@@ -219,7 +267,7 @@ const projects = [
     demo: "https://worldwise-gdz.netlify.app/",
   },
   {
-    id: "project-2",
+    id: "project-4",
     name: "natour",
     description:
       "A tour application for user registration, allowing admins to manage tours and users to make reservations. ",
