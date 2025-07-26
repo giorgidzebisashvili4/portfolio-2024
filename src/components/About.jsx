@@ -40,15 +40,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]"
       >
-        Full-stack React developer with 2+ years of experience, now expanding
-        into Python and exploring backend development with PHP. I bring over 4
-        years of design expertise from my background in graphic design, blending
-        visual thinking with clean, scalable code. I recently completed the
-        PeopleCert DEVSkills Software Development Skills Specialist (React)
-        certification through a competitive GITA scholarship program. Currently
-        freelancing and working with tools like Next.js and Tailwind CSS, I’m
-        eager to join a collaborative team where I can contribute, grow, and
-        build meaningful digital experiences.
+I'm a Junior Data & BI Analyst with a foundation in full-stack development and UI/UX design. With 2+ years of experience building web applications using React, Next.js, and Supabase, I’ve worked with structured data, dashboards, and user-focused interfaces that reflect real-world business logic.
+
+My background in graphic design (4+ years) gives me a sharp eye for visual clarity — a skill I now apply to presenting data through clear, meaningful dashboards and reports. I’ve recently completed Codecademy’s Data Scientist: Analytics Specialist career path, gaining hands-on experience with Python, SQL, Tableau, and Excel.
+
+Currently freelancing while transitioning into a full-time data role, I’m eager to join a team where I can grow as an analyst, contribute to data-driven decisions, and create real impact through clean insights and smart tools.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
