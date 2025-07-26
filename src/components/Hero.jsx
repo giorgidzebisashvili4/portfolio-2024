@@ -50,8 +50,8 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
-              Full-Stack React Developer. <br className="sm:block hidden" />
-              blending design and code to build impactful, user-focused apps.
+              Junior Data & BI Analyst. <br className="sm:block hidden" />
+              Blending analytical thinking, clean design, and technical skills to turn data into clear insights.
             </p>
           </div>
           <div
